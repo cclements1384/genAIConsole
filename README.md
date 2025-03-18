@@ -1,2 +1,2 @@
 # genAIConsole
-Sandbox console application that connected to Azure OpenAI.
+Sandbox console application that connects to an Azure OpenAI endpoint.
